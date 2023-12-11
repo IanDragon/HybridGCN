@@ -41,7 +41,7 @@ $ python Test_ESM.py
 ## 6. Citations
 Please cite our paper if you want to use our code in your work.
 ```bibtex
-@article{chen2021structure,
+@article{chen2023hybridgcn,
   title={HybridGCN for Protein Solubility Prediction with Adaptive Weighting of Multiple Features},
   author={Chen, Long and Wu, Rining and Zhou, Feixiang and Zhang, Huifeng and Liu, Jian K},
   journal={Journal of cheminformatics},
